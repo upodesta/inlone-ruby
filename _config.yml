@@ -1,0 +1,64 @@
+
+# Name of your site (displayed in the header)
+name: Hassan and Associates
+
+# Short bio or description (displayed in the header)
+description: Income tax, Company law and Business service provider in Bangladesh
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://diary.hassanandassociates.biz/images/logos/logo.png
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: forms/d/e/1FAIpQLSfpEu18GwtXckk8qpcwxNPhRjHXEoeSP27mc_H-ycduDNzKIA/viewform
+  facebook: hassanandassociates.biz
+  flickr: 
+  github: HassanAndAssociatesBD
+  instagram: hassanandassociates
+  linkedin: company/hassanassociates
+  pinterest: 
+  rss: xyz123
+  twitter: hasanassociates
+  youtube: channel/UCdKY7Ei8I9x5-UbYFehlGXw
+  
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: hassanandassociates
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-66934702-16
+
+# Your website URL 
+# Used for Sitemap.xml and your RSS feed
+url: https://diary.hassanandassociates.biz 
+     
+baseurl: https://diary.hassanandassociates.biz
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+permalink: /:title/
+
+# Build settings
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
