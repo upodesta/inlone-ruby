@@ -14,7 +14,7 @@ Here are the points where you can get in touch or find us @
 
 - [Official Blog](https://blog.hassanandassociates.biz)
 
-- [Blog 'Notes' Site](https://notes.hassanandassociates.biz)
+- [Blog 'Notes'](https://notes.hassanandassociates.biz)
 
 - [Blogger](https://blogger.hassanandassociates.biz)
 
@@ -22,7 +22,7 @@ Here are the points where you can get in touch or find us @
 
 - [Internal Site](https://sites.google.com/site/taxadvisorbd)
 
-- [Owner's Site](https://taxadvisor.com.bd)
+- [Portfolio Site](https://taxadvisor.com.bd)
 
 ### Subscribe to our 
 
