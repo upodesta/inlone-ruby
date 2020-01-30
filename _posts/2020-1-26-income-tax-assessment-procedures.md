@@ -3,7 +3,7 @@ layout: post
 title: Income tax Assessment Procedures
 ---
 
-![tax](/images/logos/tax.jpg "tax") For a return submitted under normal scheme, assessment is made after giving an opportunity of hearing.
+For a return submitted under normal scheme, assessment is made after giving an opportunity of hearing.
 For  returns  submitted  under  Universal  Self  Assessment  Scheme, the  acknowledgement  slip  is considered to be an assessment order of the Deputy Commissioner of Taxes. Universal Self Assessment may be subject to “process and audit”.
 
 Provided that a return of income filed under universal self assessment scheme, shall not be selected for audit where such return shows at least twenty per cent higher income than the income assessed or shown in the return of the immediately preceding assessment year and such return-

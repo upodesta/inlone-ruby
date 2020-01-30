@@ -3,9 +3,7 @@ layout: post
 title: Foreign investment in Bangladesh is protected
 ---
 
-![Investment](/images/logos/investment.jpg "Investment") Foreign investment in Bangladesh is protected by the "Foreign Private Investment Promotion and Protection Act"
-
-And also supported by:
+Foreign investment in Bangladesh is protected by the "Foreign Private Investment Promotion and Protection Act" and also supported by:
 
 International Agreements: Bangladesh has concluded bilateral agreements for avoidance of double taxation and investment treaties for promotion and protection of investment with the following countries:
 
