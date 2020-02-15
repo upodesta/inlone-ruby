@@ -3,7 +3,7 @@ layout: post
 title: Foreign investment in Bangladesh is protected
 ---
 
-Foreign investment in Bangladesh is protected by the "Foreign Private Investment Promotion and Protection Act" and also supported by:
+Foreign Capital means capital invested in Banladesh in any industrial undertaking by a citizen of any foreign country or by a company incorporated outside Bangladesh, in the form of foreign exchange, imported machinery and equipment and Foreign Private Investment means investment of foreign capital by a person who is not a citizen of Bangladesh or by a company incorporated outside Bangladesh, but does not include investment by a foreign Government or an agency of foreign Government. Foreign investment in Bangladesh is protected by the "Foreign Private Investment Promotion and Protection Act" and also supported by:
 
 International Agreements: Bangladesh has concluded bilateral agreements for avoidance of double taxation and investment treaties for promotion and protection of investment with the following countries:
 
