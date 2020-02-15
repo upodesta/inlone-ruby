@@ -33,9 +33,9 @@ google_analytics: UA-66934702-16
 
 # Your website URL 
 # Used for Sitemap.xml and your RSS feed
-url:  
+url: https://diary.hassanandassociates.biz 
      
-baseurl: 
+baseurl: https://diary.hassanandassociates.biz
 #
 # !! You don't need to change any of the configuration flags below !!
 #
