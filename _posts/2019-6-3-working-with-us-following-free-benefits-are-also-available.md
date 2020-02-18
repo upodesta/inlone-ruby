@@ -3,9 +3,7 @@ layout: post
 title: Following free benefits are also available
 ---
 
-Working with us following free benefits are also available at no cost to help make life a little bit easier:
-
-- Personalised e-mail : 01 of our customized e-mail id e.g. [yourname@hassanandassociates.biz](https://hassanandassociates.biz)
+Working with us following free benefits are also available at no cost to help make life a little bit easier. Personalised e-mail : 01 of our customized e-mail id e.g. [yourname@hassanandassociates.biz](https://hassanandassociates.biz)
 
 - Personal Disk Space : 10 GB disk online space for personal use that can share personal documents, image or video with anybody.  
 
