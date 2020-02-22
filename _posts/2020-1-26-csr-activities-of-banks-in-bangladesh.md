@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: CSR activities of banks in Bangladesh
+title: CSR activities of Banks in Bangladesh
 ---
 
 ![csr](/images/logos/csr.jpg "csr") Historically, the banking sector of Bangladesh has been amply participating in various social activities especially, in the areas of education, health, sports, benevolent activities like donations to different charitable organizations, to poor people  and  religious  institutions,  city  beautification  and  patronizing  art  & culture, etc.

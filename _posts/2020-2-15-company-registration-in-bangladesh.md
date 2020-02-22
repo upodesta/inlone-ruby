@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Company registration in Bangladesh  
+title: Company Registration in Bangladesh  
 ---
 
 When considering the registration of a new company or relocation of your existing company to Bangladesh, note that most Bangladeshi companies are registered as private limited liability companies (commonly known as private limited companies). A private limited company in Bangladesh is a separate legal entity and shareholders are not liable for the company’s debts beyond the amount of share capital they have contributed. According to the Companies Act 1994, any person (foreign or local) above the age of 18 can register a company in Bangladesh.

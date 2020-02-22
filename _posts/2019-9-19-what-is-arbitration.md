@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WHAT IS ARBITRATION
+title: What is Arbitration
 ---
 
 ![Arbitration](https://diary.hassanandassociates.biz/images/logos/arbitration.jpg "Arbitration") The essence of arbitration is that it is an agreement between two or more parties to try to resolve a dispute outside of the court system. The parties agree upon a third party as an arbitrator who will act as a judge and jury. After giving the parties the opportunity to present their side of the story and to present any relevant documents or other evidence, the arbitrator will act as King Solomon to decide who wins and who loses. 

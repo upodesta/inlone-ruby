@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Copyright registration in Bangladesh  
+title: Copyright Registration in Bangladesh  
 ---
 
-In Bangladesh, Copyright Office is responsible maintaining the register of copyrighted works. Any application for registration, transfer, abandonment, modification of register should be made to the Registrar.
+Copyright is the exclusive right given to the creator of a creative work to reproduce the work, usually for a limited time. The creative work may be in a literary, artistic, educational, or musical form. Copyright is intended to protect the original expression of an idea in the form of a creative work, but not the idea itself. In Bangladesh, Copyright Office is responsible maintaining the register of copyrighted works. Any application for registration, transfer, abandonment, modification of register should be made to the Registrar.
 
 ## REGISTRATION
 

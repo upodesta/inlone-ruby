@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Trademark registration in Bangladesh  
+title: Trademark Registration in Bangladesh  
 ---
 
 Trademark registration in Bangladesh is performed through the [Department of Patents, Designs and Trademarks (DPDT)](http://www.dpdt.gov.bd). Any person claiming to be the proprietor of a trademark already in use or proposed to be used in Bangladesh may apply in writing for registration of a Trademark in the prescribed manner. An applicant has to file application for the registration of a trademark to the Trademark Registry Wing of the DPDT. Service Marks can also be registered in Bangladesh. Applicants can apply for registration of service marks in Bangladesh. The International Nice Classification of Services is applicable for this purpose
