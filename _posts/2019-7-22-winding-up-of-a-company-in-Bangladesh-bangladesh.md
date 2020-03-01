@@ -3,7 +3,7 @@ layout: post
 title: Winding up of a Company in Bangladesh  
 ---
 
-In Bangladesh, the winding up of a company may be either – (1) Voluntary; or (2) By the court; or (3) Subject to the supervision of the court. Voluntary winding up is usually undertaken by solvent companies, except in the case of creditor’s voluntary winding up. Now we have described the process of voluntary winding up by passing a special resolution.
+The winding up or liquidation of a company is the process by which a company’s assets are collected and sold in order to pay its debts. Any monies remaining after all debts, expenses and costs have been paid off are distributed amongst the shareholders of the company. When the winding up has been completed, the company is formally dissolved and it ceases to exist. In Bangladesh, the winding up of a company may be either – (1) Voluntary; or (2) By the court; or (3) Subject to the supervision of the court. Voluntary winding up is usually undertaken by solvent companies, except in the case of creditor’s voluntary winding up. Now we have described the process of voluntary winding up by passing a special resolution.
 
 ### FIRST STEP: PREPARING DOCUMENTS:
 
