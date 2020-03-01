@@ -3,7 +3,7 @@ layout: post
 title: How to Check the Ownership of a Property  
 ---
 
-Before buying any property in Bangladesh, it is necessary to check the ownership of the property. In Bangladesh, dispute with property ownership is very common. Documents related to property are easily forged and unreliable. If any person, while buying a property, is not cautious, might face problems, possibly litigation with the ownership of the property at a later stage. However, checking ownership of property in Bangladesh is a laborious job. To check the ownership of a property, a buyer should do the following:
+![property](/images/logos/property.jpg "property") Before buying any property in Bangladesh, it is necessary to check the ownership of the property. In Bangladesh, dispute with property ownership is very common. Documents related to property are easily forged and unreliable. If any person, while buying a property, is not cautious, might face problems, possibly litigation with the ownership of the property at a later stage. However, checking ownership of property in Bangladesh is a laborious job. To check the ownership of a property, a buyer should do the following:
 
 #### COLLECTING INFORMATION ABOUT THE PROPERTY:
 

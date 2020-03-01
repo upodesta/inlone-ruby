@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang "en-us" rel="alternate" hreflang="bn-bd">
+<html lang "en">
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -12,6 +12,8 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+	{% include analytics.html %}
+	
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -47,7 +49,7 @@
       </div>
   </div>
 
-    {% include analytics.html %}
+    
 	
   </body>
 </html>

@@ -31,7 +31,7 @@ Applicable fees is required to be paid.
 
 ## ACCEPTANCE OR REJECTION OF TRADEMARK BY THE REGISTRAR
 
-After filing the application, the Registrar may either accept or reject or order to correct or modify the application. An application for registration of a trade mark may be accepted either absolutely or subject to conditions or limitations. The Registrar, on receipt of the application, issues Official Filing Receipt. The document contains all relevant filing details on the trademark e.g. Application Number, date of application, the trademark etc.). If the Registrar reject any application, s/he should issue a show cause letter to the applicant. The applicant must submit reply to the show cause notice and may seek a hearing in the matter within three (3) months otherwise, the application will be deemed abandoned
+After filing the application, the Registrar may either accept or reject or order to correct or modify the application. An application for registration of a trade mark may be accepted either absolutely or subject to conditions or limitations. The Registrar, on receipt of the application, issues Official Filing Receipt. The document contains all relevant filing details on the trademark e.g. Application Number, date of application, the trademark etc. If the Registrar reject any application, s/he should issue a show cause letter to the applicant. The applicant must submit reply to the show cause notice and may seek a hearing in the matter within three (3) months otherwise, the application will be deemed abandoned
 
 ## JOURNAL PUBLICATION
 

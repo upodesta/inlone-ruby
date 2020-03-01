@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Legal System of Bangladesh  
+title: Legal Environment of Bangladesh  
 ---
 
 Bangladesh is a common law based jurisdiction. Many of the basic laws of Bangladesh such as penal code, civil and criminal procedural codes, contract law and company law are influenced by English common laws. However family laws such as laws relating to marriage, dissolution of marriage and inheritance are based on religious scripts, and therefore differ between religious communities. The Bangladeshi legal system is based on a written constitution and the laws often take statutory forms which are enacted by the legislature and interpreted by the higher courts. Ordinarily executive authorities and statutory corporations cannot make any law, but can make by-laws to the extent authorized by the legislature. Such subordinate legislation is known as rules or regulations and is also enforceable by the court. Yet being a common law system, the statutes are short, and set out basic rights and responsibilities but are elaborated by the courts in their application and interpretation of those. In addition, certain customs and practices established over a period are also to some extent recognized as acceptable and are enforced by the courts.

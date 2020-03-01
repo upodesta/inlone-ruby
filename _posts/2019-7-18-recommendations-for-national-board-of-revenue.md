@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  Recommendations for National Board of Revenue
+title:  Recommendations for NBR, Bangladesh
 ---
 
 The major reform of tax administration occurred in the 1990s, in
