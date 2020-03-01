@@ -7,10 +7,12 @@ Industrialization is an essential prerequisite for rapid and sustained economic 
 It is mandatory to obtain Environmental Clearance for each and every type of industry and project as
 per Bangladesh Environment Conservation Act, 1995 (Amended 2010). For the purpose of issuance
 of Environmental Clearance Certificate, the industrial units and projects shall, in consideration of
-their site and impact on the environment, be classified into the four categories (i) Green (ii) Orange-A (iii) Orange-B (iv) Red
-Environmental Clearance for Green category industries and projects is provided through comparatively simple procedure. 
+their site and impact on the environment, be classified into the four categories (i) Green (ii) Orange-A (iii) Orange-B (iv) Red.
 
-In case of Orange-A, Orange-B and Red Category industries and projects, Site Clearance is mandatory at the beginning, then EIA approval and finally Environmental Clearance is issued. The Environment Clearance is to be renewed after three (03) years for Green category and one (01) year for Orange-A, Orange-B and Red category industries respectively. 
+Environmental Clearance for Green category industries and projects is provided through comparatively simple procedure. 
+In case of Orange-A, Orange-B and Red Category industries and projects, Site Clearance is mandatory at the beginning, then EIA approval and finally Environmental Clearance is issued. 
+
+The Environment Clearance is to be renewed after three (03) years for Green category and one (01) year for Orange-A, Orange-B and Red category industries respectively. 
 Environmental Clearance Certificate’s shall be issued to all existing industrial units and projects and to all proposed industrial units and projects falling in the Green Category. For industrial units and projects falling in the Orange-A, Orange-B, first a Site Clearance Certificate and thereafter an Environmental Clearance Certificate shall be issued. In case of Red category industries, firstly a Location Clearance Certificate, then Environment Impact Assessment (EIA) approval and thereafter an Environmental Clearance Certificate shall be issued.
 
 Documents Required for Different Categories of Industrial Units or Projects:
