@@ -27,11 +27,11 @@ system. Tax assessments were made less complicated and an attempt of attracting 
 the tax net was made. The automation of tax collection was begun, and compliance with the standards
 and systems introduced by WCO has increased. The practice of honouring the taxpayers and recognizing
 their contribution received institutional shape in the NBR. In the case of legislative reforms, the new
-Value Added Tax and Supplementary Duty Act of 2012 were enacted and effective from July
-2016. A draft Direct Tax Code was posted on the government’s website and steps will be taken to get it
-passed by Parliament by next year. There are plans for a comprehensive/maximum reduction in the rate
-of Import and Supplementary Duty in the budget, which is eventually
-shift the burden of revenue collection to Individual and Corporate Tax along with Value Added Tax (VAT)
+Value Added Tax and Supplementary Duty Act of 2012 were enacted and effective from July 2016.
+
+A draft Direct Tax Code was posted on the government’s website and steps will be taken to get it
+passed by Parliament by next year. There are plans for a comprehensive /maximum reduction in the rate
+of Import and Supplementary Duty in the budget, which is eventually shift the burden of revenue collection to Individual and Corporate Tax along with Value Added Tax (VAT)
 
 
 
