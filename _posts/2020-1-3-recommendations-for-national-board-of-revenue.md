@@ -7,7 +7,9 @@ The major reform of tax administration occurred in the 1990s, in
 a democratic regime following military rule in the country. However, there is no study to measure the
 effect of democratic environment on the revenue administration and governance. Indirect taxes are still the primary source of government income and contribute the lion’s
 share of total tax receipts in Bangladesh. The administration of direct taxes is outdated and based on territorial and geographical administrative
-units. As long as withholding taxes at sources has no central database, there is no way for the tax
+units. 
+
+As long as withholding taxes at sources has no central database, there is no way for the tax
 administration to follow up on additional tax payments and also administer the withholding agencies.
 The combined effect of all these deficiencies is the very low tax efficiency and the very low direct tax to
 GDP ratio in Bangladesh. The main recommendations are:

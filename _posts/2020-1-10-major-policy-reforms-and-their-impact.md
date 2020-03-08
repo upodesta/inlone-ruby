@@ -8,6 +8,7 @@ The income tax legislation dates to the Income Tax Ordinance 1984, and was promu
 military rule. According to the 1984 Ordinance there are seven forms of income on which tax is levied:
 salaries, interest on securities, income from house or property, agricultural income, income from
 business or profession, capital gains and income from other sources (Income Tax Manual Part-1, 2019). A number of efforts were made to strengthen the revenue mobilization and improve the tax structure.
+
 In 1991 Bangladesh embarked on a major tax reform through the introduction of the VAT system.
 Simultaneously there was a significant reduction of import tariffs. Prior to these reforms, trade-based
 taxes dominated the tax structure in Bangladesh with customs duties alone accounting for about a third

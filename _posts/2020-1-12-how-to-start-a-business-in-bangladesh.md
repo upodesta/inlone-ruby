@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: How to start a Business
+title: How to Start a Business
 ---
 
 An entrepreneur has to follow nine specific procedures and legal steps to set up a business in Bangladesh. At the outset, the entrepreneur has to apply to Registrar of Joint Stock Companies and Firms (RJSC) for Name Clearance Certificate. After receiving the certificate, the next step is to pay stamp duty at a Designated Bank and again apply to RJSC for registration. Then the company makes seal and open a bank account and then apply for trade license to respective City Corporation or Municipal Corporations. After completing all those procedures, the entrepreneur has to approach to the National Board of Revenue (NBR) for receiving TIN Certificate and registering with the Customs, Excise, and VAT Commissionerate. Finally, the investor requires to apply to theBangladesh Investment Development Authority (BIDA) for registration. 
