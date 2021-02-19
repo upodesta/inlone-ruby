@@ -13,13 +13,13 @@ We provide services for individual and company income tax, company registration,
 
 Here are the points where you can get in touch or find us @
 
-- [Official Page](https://hassanandassociates.biz)
+- [Official Page](https://hassan.com.bd)
 
-- [Official Blog](https://blog.hassanandassociates.biz)
+- [Official Blog](https://blog.hassan.com.bd)
 
-- [Blog 'Notes'](https://notes.hassanandassociates.biz)
+- [Blog 'Notes'](https://notes.hassan.com.bd)
 
-- [Blogger](https://blogger.hassanandassociates.biz)
+- [Blogger](https://blogger.hassan.com.bd)
 
 - [Business Site](https://hassanandassociates.business.site)
 
@@ -31,4 +31,4 @@ Here are the points where you can get in touch or find us @
 
 ### Contact us :
 
-[info@hassanandassociates.biz](mailto:info@hassanandassociates.biz)
+[info@hassan.com.bd](mailto:info@hassan.com.bd)
