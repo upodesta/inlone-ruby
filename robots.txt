@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Allow: /sitemap.htm
-Sitemap: https://diary.hassanandassociates.biz/sitemap.xml
+Sitemap: https://diary.hassan.com.bd/sitemap.xml
