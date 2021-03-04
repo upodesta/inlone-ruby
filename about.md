@@ -27,7 +27,7 @@ Here are the points where you can get in touch or find us @
 
 ### Subscribe to our 
 
-<a href="https://hassanandassociates.us17.list-manage.com/subscribe/post?u=6a6b36ec67a083ef90b0364cd&amp;id=7ef9f5c6ed" target="_blank"><img src="https://diary.hassanandassociates.biz/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://hassanandassociates.us17.list-manage.com/subscribe/post?u=6a6b36ec67a083ef90b0364cd&amp;id=7ef9f5c6ed" target="_blank"><img src="https://diary.hassan.com.bd/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
 
 ### Contact us :
 
