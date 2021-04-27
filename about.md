@@ -27,7 +27,7 @@ Here are the points where you can get in touch or find us @
 
 ### Subscribe to our 
 
-<a href="https://hassan.com.bd/signup/" target="_blank"><img src="https://diary.hassan.com.bd/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://hassan.com.bd/subscribe/" target="_blank"><img src="https://diary.hassan.com.bd/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
 
 ### Contact us :
 
